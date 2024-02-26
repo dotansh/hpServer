@@ -1,2 +1,2 @@
 # hpServer
-Harry Poter guess game
+Harry Potter guess game
